@@ -1,0 +1,3 @@
+<div>
+    {{ $webMessage }}
+</div>
